@@ -1,68 +1,58 @@
- ## 👋 Hi there!
+## Hi there! 👋
 
-I'm **Ravi Ranjan Kumar   a passionate **Frontend Developer** with hands-on experience in building modern, responsive web applications using **React.js**, **JavaScript**, and **Node.js**
+Hello! I’m Ravi Ranjan  Kumar, a passionate Frontend Developer with experience in building modern, responsive web applications using React.js, Next.js, JavaScript, and Node.js. Currently working at Infoneo Technology Pvt. Ltd., I focus on delivering clean, scalable, and user-centric solutions. I’m eager to grow as a full-stack developer and continuously learn new technologies to improve my craft.
 
-Currently, I work at **Infoneo Technology Pvt. Ltd.**, where I develop scalable, performance-driven applications that deliver excellent user experiences.
+## About Me
 
----
+I’m Ravi Goswami, a dedicated and detail-oriented Frontend Developer with a strong foundation in modern web technologies including React.js, Next.js, JavaScript (ES6), Node.js, and MongoDB.
 
-## 🧑‍💻 About Me
+Currently, I’m working as a Software Developer at Infoneo Technology Pvt. Ltd., where I focus on building scalable, high-performance web applications with clean and maintainable code. I’m passionate about creating seamless user experiences and writing efficient, reusable components.
 
-* 💼 **Role**: Software Developer at Infoneo Technology Pvt. Ltd.
-* 👨‍💻 **Tech Stack**: React.js, Next.js, Node.js, Express.js, MongoDB, JavaScript (ES6), HTML, CSS
-* 🔧 **Tools**: Git, GitHub, Webpack, Redux, Postman, AWS, MySQL, Linux
-* 🎯 **Goals**: Grow into a full-stack developer, contribute to open-source, and master system design (HLD/LLD)
+With over 6 months of professional experience, I’ve contributed to several real-world projects, including:
 
-I enjoy writing clean, maintainable code and exploring best practices in frontend architecture. I'm also actively improving my backend knowledge and communication skills for global collaboration.
+🛒 A full-featured E-commerce Platform
 
----
+💬 A real-time Chat Application
 
-## 🚀 Projects
+📰 A responsive News App
 
-Here are a few projects I’ve worked on:
+I enjoy staying current with industry best practices and am actively enhancing my skills in backend development, system design (HLD/LLD), and MongoDB. I also have a keen interest in design systems and frontend architecture.
 
-* 🔗 **[FULL-MERN](https://github.com/ravigoswami01/FULL-MERN)**: A complete MERN stack application with user authentication.
-* 🔗 **[ShopNimbus](https://github.com/ravigoswami01/ShopNimbus)**: An e-commerce platform built with React & Node.js.
-* 🔗 **[E-com](https://github.com/ravigoswami01/E-com)**: A simple product showcase website using React.
-* 🔗 **[Payment Gateway](https://github.com/ravigoswami01/Payment-getway)**: Example integration of a payment gateway.
-* 🔗 **[my-vue-app](https://github.com/ravigoswami01/my-vue-app)**: A demo Vue.js project covering basic features.
+💡 Interests & Goals
 
----
+Enhancing performance and accessibility in web apps
+Learning advanced patterns in Node.js and MongoDB
+Improving communication and English fluency for global collaboration
 
-## 🛠️ Skills & Technologies
+Sharing knowledge through content creation and mentoring
 
-`React.js` · `` `Node.js `` · `Express.js` · `MongoDB` · `MySQL` · `JavaScript (ES6)`
-`HTML` · `CSS` · `Tailwind CSS` · `Bootstrap` · `Redux` · 
-`Git` · `GitHub` `· `Linux` · `Postman`
+## Skills & Technologies
 
----
+react,nodejs,express,mongodb,html,css,git,github,webpack,redux,tailwind,bootstrap,vue,aws,linux,postman,mysql
 
-## 🌐 Connect with Me
+## Top Projects
 
-* 🔗 [**Portfolio Website**](https://ravigoswami01.github.io/portfolio/)
-* 💼 **[LinkedIn](https://www.linkedin.com/in/ravi_goswami6294/)**
-* 💻 **[GitHub](https://github.com/ravigoswami01)**
-* 📧 **Email**: [raviroa25@gmail.com](mailto:raviroa25@gmail.com)
+- [FULL-MERN](https://github.com/ravigoswami01/FULL-MERN) - A full-stack MERN application with user authentication. ⭐ 0 ★ 0 forks
+- [ShopNimbus](https://github.com/ravigoswami01/ShopNimbus) - An e-commerce platform built with React and Node.js. ⭐ 0 ★ 0 forks
+- [E-com](https://github.com/ravigoswami01/E-com) - A simple e-commerce website showcasing products. ⭐ 1 ★ 0 forks
+- [Payment-getway](https://github.com/ravigoswami01/Payment-getway) - A payment gateway integration example. ⭐ 0 ★ 0 forks
+- [my-vue-app](https://github.com/ravigoswami01/my-vue-app) - A Vue.js application demonstrating various features. ⭐ 0 ★ 0 forks
 
----
+## GitHub Stats
 
-## 🎯 Interests & Learning Goals
+![](https://img.shields.io/badge/Public%20Repos-29-blue) ![](https://img.shields.io/badge/Followers-1-yellow) ![](https://img.shields.io/badge/Following-4-orange)
 
-* 🚀 Enhancing performance and accessibility in web apps
-* 📘 Learning advanced patterns in Node.js & MongoDB
-* 🌍 Improving English fluency for international collaboration
-* 🎥 Creating coding content & mentoring junior developers
+## Connect with Me
 
----
+ 
 
-## 🖥️ ASCII Vibes
+## ASCII Art
 
 ```
                   _                                         _  ___  _ 
   _ __ __ ___   _(_) __ _  ___  _____      ____ _ _ __ ___ (_)/ _ \/ |
  | '__/ _` \ \ / / |/ _` |/ _ \/ __\ \ /\ / / _` | '_ ` _ \| | | | | |
- | | | (_| |\ V /| | (_| | (_) \__ \ V  V / (_| | | | | | | | |_| | |
+ | | | (_| |\ V /| | (_| | (_) \__ \\ V  V / (_| | | | | | | | |_| | |
  |_|  \__,_| \_/ |_|\__, |\___/|___/ \_/\_/ \__,_|_| |_| |_|_|\___/|_|
                     |___/                                             
 ```
-
